@@ -136,6 +136,10 @@ function markdownListToHtml(src: string): string {
     }
 
     closeCurrentList();
+
+    // hackity hackity hack
+    html = html.replace(/\*\*(.*?)\*\*/g, "<b>$1</b>");
+
     return [html, i - 1];
   };
 

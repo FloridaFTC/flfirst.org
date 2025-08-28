@@ -1,4 +1,4 @@
-import{j as e,r}from"./jsx-runtime-d4vcKfGz.js";import{M as i}from"./markdown-nVLLpt3n.js";const l=`# Introducing the all new Florida First Tech Challenge website!
+import{j as e,r}from"./jsx-runtime-d4vcKfGz.js";import{M as i}from"./markdown-CJYhZ9p4.js";const l=`# Introducing the all new Florida First Tech Challenge website!
 
 _August 21st, 2024_
 
@@ -53,13 +53,13 @@ The Florida FTC season theme this year is Robot Design. Therefore, this newslett
 
 The following are the topics covered in this Florida FTC newsletter:
 
-1.                              New Florida FIRST Tech Challenge Website (www.flfirst.org)
+1.                                New Florida FIRST Tech Challenge Website (www.flfirst.org)
 
-2.                              AJ’s Tech Corner
+2.                                AJ’s Tech Corner
 
-3.                              SDK 10.1 Released: Use REV Hardware Client to Update
+3.                                SDK 10.1 Released: Use REV Hardware Client to Update
 
-4.                              Robot Design Ideas
+4.                                Robot Design Ideas
 
 ## Newsletter Details
 
@@ -224,7 +224,7 @@ Volunteers: The Florida Championship event is now in the FIRST Volunteer Managem
 To register, Team Coach #1 and #2 must create an account using the same email address linked to their FIRST Dashboard. Locate your league and event by scrolling down the Events page, then select the “Register” button. If the button is grayed out, the registration window is not yet open. You’ll be prompted to create an account in the Region Manager system. For assistance, watch this short video explaining the event registration process: [https://youtu.be/AoQfTYcof1Q](https://youtu.be/AoQfTYcof1Q).
 
 _– Hans Wolf_
-`,p=`# Florida FTC 2024-25 Newsletter #9
+`,g=`# Florida FTC 2024-25 Newsletter #9
 
 _November 14, 2024_
 
@@ -285,7 +285,7 @@ Ranking Score (RS) is the average of a team’s Ranking Points (RP), where:
 For details, review Section 13.5 Qualification Matches in the Competition Manual.
 
 _– Hans Wolf_
-`,g=`# Florida FTC 2024-25 Newsletter #10
+`,p=`# Florida FTC 2024-25 Newsletter #10
 
 _November 24, 2024_
 
@@ -333,7 +333,7 @@ Lottery entry emails must be received by **January 10, 2025**.
 Reminder: Teams invited to the Florida Championship are required to pay a $200 event registration fee and must arrive at the venue by **11:00 am on Friday, February 28, 2025**, to complete the robot inspection process and begin alliance matches.
 
 _– Hans Wolf_
-`,w=`# Florida FTC 2024-25 Newsletter #11
+`,f=`# Florida FTC 2024-25 Newsletter #11
 
 _December 10, 2024_
 
@@ -391,7 +391,7 @@ For more details, review Section 6.4.1 Dean’s List Award in the Competition Ma
 **Important Reminder**: Review all Team Updates published by FIRST before attending your next event.
 
 _– Hans Wolf_
-`,f=`# Florida FTC 2024-25 Newsletter #12
+`,w=`# Florida FTC 2024-25 Newsletter #12
 
 _January 6th, 2025_
 
@@ -479,7 +479,90 @@ Fifty-six (56) Florida FTC teams will receive invitations to the state champions
 _See you all at the Florida Championship!_
 
 _-- Hans Wolf_
-`,v=`## Newsletter #13 Summary
+`,v=`# Florida FTC 2024-25 Newsletter #13
+
+_August 7th, 2025_
+
+Hello there,
+
+My name is AJ Foster, and I'm honored to be the new Program Delivery Partner for _FIRST_ Tech Challenge in Florida. After more than 10 years, our previous leader, Hans Wolf, has stepped back to enjoy some well-deserved retirement. I am extremely grateful for the way Hans cared for and grew this program over the years.
+
+We are one month away from kickoff for the 2025–2026 DECODE™ presented by RTX season. Below is some information focused on kickoff day.
+
+## In-Person Kickoff Events
+
+Most of our leagues will host in-person kickoff gatherings to celebrate the start of the season and watch the game reveal together. Details are still being finalized, so keep an eye on [our website](https://flfirst.org/events) and look for communication from your league leadership soon.
+
+## Virtual Kickoff Broadcast
+
+We will once again host a live broadcast on kickoff day featuring some new and some familiar faces. If you aren't able to attend an in-person kickoff event, I encourage you to watch the broadcast on [https://www.youtube.com/@FIRSTInFlorida](https://www.youtube.com/@FIRSTInFlorida).
+
+## Call for Videos
+
+What advice would you give teams to get started with the new season? We're looking for 30-second (1 minute maximum) videos with your tips. Topics could include how to evaluate game strategy, how to get started with CAD, or anything else relevant to the start of the season. Here are the guidelines:
+
+- 30-second video (1 minute max)
+- Film in landscape (for the broadcast)
+- Don't include copyrighted music or video
+- Post the videos publicly (e.g. YouTube public or unlisted; Google Drive) and send the link to me by Friday, August 29th.
+
+Florida has a [history](https://www.youtube.com/watch?v=iBXi66IgZNc) of [creative](https://www.youtube.com/watch?v=uW7UXB_mEEA) videos. We can't guarantee that all submissions will be used in the show, but I'm excited to see what you come up with.
+
+One last note: the FIRST Tech Challenge Hardship Grant is now available. Please review the criteria [here](https://www.firstinspires.org/robotics/team-grants) and contact me if you would like to apply.
+
+See you soon!
+
+**AJ Foster**<br />
+Program Deliver Partner · Florida<br />
+Global Key · Technology<br />
+_FIRST_ Tech Challenge
+`,y=`Hello teams, volunteers, and friends,
+
+This newsletter contains additional information about the in-person and virtual kickoff experiences on Saturday, September 6th for the 2025–2026 DECODE™ presented by RTX season.
+
+## In-Person Kickoff Near You
+
+This season, we have seven in-person kickoff gatherings for teams and local volunteers:
+
+- **AeroCoast**: The Doolittle Institute, 1140 John Sims Pkwy E Suite 1, Niceville, FL 32578
+- **FUN & South Florida**: Boca Raton High School, 1501 NW 15th Ct, Boca Raton, FL
+- **Gulf Coast**: Seminole High School, 8401 131st Street, Seminole, FL 33776
+- **Northeast Florida**: The Bolles School, 2264 Bartram Rd, Jacksonville, FL 32207
+- **Orlando Robotics**: Lake Highland Preparatory School, 901 N. Highland Ave, Orlando, FL 32803
+- **ROBOT**: Location to be announced
+- **Space Coast**: Holy Trinity Episcopal Academy, 5625 Holy Trinity Dr, Melbourne, FL 32940
+
+Attending one of these events is the best way to start the season, with opportunities to meet fellow teams, share knowledge, and learn about this year's challenge together. Check [https://flfirst.org/events](https://flfirst.org/events) for the latest event information as it gets published, and look for communication from your local league with instructions for registering and attending.
+
+## Virtual Kickoff
+
+If you can't make it to one of the in-person kickoff sites, we have a live broadcast featuring some new and some familiar faces at [https://www.youtube.com/@FIRSTInFlorida](https://www.youtube.com/@FIRSTInFlorida). The broadcast will begin at 11:30am ET on Saturday, September 6th, and include:
+
+- Welcome message and discussion of the changes to Advancement
+- The official game reveal and related videos from FIRST
+- Rules commentary from your Florida referees
+- Time for Q&A about the game
+
+Join us, won't you?
+
+## Reminder: Call for Videos
+
+What advice would you give teams to get started with the new season? We're looking for 30-second (1 minute maximum) videos with your tips. Topics could include how to evaluate game strategy, how to get started with CAD, or anything else relevant to the start of the season. Here are the guidelines:
+
+- 30-second video (1 minute max)
+- Film in landscape (for the broadcast)
+- Don't include copyrighted music or video
+- Post the videos publicly (e.g. YouTube public or unlisted; Google Drive) and send the link to me by Friday, August 29th.
+
+Florida has a [history](https://www.youtube.com/watch?v=iBXi66IgZNc) of [creative](https://www.youtube.com/watch?v=uW7UXB_mEEA) videos. We can't guarantee that all submissions will be used in the show, but I'm excited to see what you come up with.
+
+See you soon!
+
+**AJ Foster**<br />
+Program Deliver Partner · Florida<br />
+Global Key · Technology<br />
+_FIRST_ Tech Challenge
+`,T=`## Newsletter #13 Summary
 
 **League Tournaments Schedule**:
 
@@ -514,7 +597,7 @@ _-- Hans Wolf_
   - Space Coast: 6 teams
 
 Good luck to all teams in the League Tournaments!
-`,y=`## Newsletter #12 Summary
+`,F=`## Newsletter #12 Summary
 
 **Florida Championship**:
 
@@ -566,7 +649,7 @@ Activities include:
 - Hybrid judging interviews conducted online.
 - Engineering Portfolio replaces multiple documents for awards.
 - Playoff structure uses double elimination.
-`,T=`## Newsletter #11 Summary
+`,C=`## Newsletter #11 Summary
 
 **Dean’s List Nominations**:
 
@@ -608,4 +691,73 @@ Activities include:
 
 - Review the six published Team Updates before attending events.
 - Updates available on the [FIRST Game and Season Info page](https://www.firstinspires.org/resource-library/ftc/game-and-season-info).
-`,S=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],F=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(F,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function L(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:b,summary:v}),e.jsx(t,{content:f,summary:y}),e.jsx(t,{content:w,summary:T}),e.jsx(t,{content:g}),e.jsx(t,{content:p}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{L as default,S as meta};
+`,R=`## Newsletter #14 Summary
+
+**Kickoff Date**:
+
+- Saturday, September 6th, 2025
+- 2025–2026 DECODE™ presented by RTX season
+
+**In-Person Kickoff Locations**:
+
+- **AeroCoast**: The Doolittle Institute, Niceville, FL
+- **FUN & South Florida**: Boca Raton High School, Boca Raton, FL
+- **Gulf Coast**: Seminole High School, Seminole, FL
+- **Northeast Florida**: The Bolles School, Jacksonville, FL
+- **Orlando Robotics**: Lake Highland Preparatory School, Orlando, FL
+- **ROBOT**: Location to be announced
+- **Space Coast**: Holy Trinity Episcopal Academy, Melbourne, FL
+
+**Virtual Kickoff**:
+
+- Live broadcast at [YouTube @FIRSTInFlorida](https://www.youtube.com/@FIRSTInFlorida)
+- Starts at 11:30am ET on Saturday, September 6th
+- Includes: welcome message, advancement changes discussion, official game reveal, rules commentary, and Q&A
+
+**Video Submission Reminder**:
+
+- Deadline: Friday, August 29th, 2025
+- 30-second video (1 minute maximum)
+- Film in landscape format
+- No copyrighted music or video
+- Post publicly and send link to AJ Foster
+- Topics: game strategy evaluation, CAD tips, or other season-start advice
+
+**Action Items**:
+
+- Check [flfirst.org/events](https://flfirst.org/events) for updated event information
+- Look for communication from local league for registration instructions
+- Submit video links by August 29th deadline
+`,S=`## Newsletter #13 Summary
+
+**Leadership Change**:
+
+- AJ Foster is the new Program Delivery Partner for Florida FTC
+- Hans Wolf has retired after more than 10 years of service
+
+**Season Information**:
+
+- 2025–2026 DECODE™ presented by RTX season
+- Kickoff is one month away from August 7th, 2025
+
+**Kickoff Events**:
+
+- Most leagues will host in-person kickoff gatherings
+- Details to be finalized and posted on [flfirst.org/events](https://flfirst.org/events)
+- Virtual kickoff broadcast available on [YouTube @FIRSTInFlorida](https://www.youtube.com/@FIRSTInFlorida)
+
+**Video Submission**:
+
+- Deadline: Friday, August 29th, 2025
+- 30-second video (1 minute maximum)
+- Film in landscape format
+- No copyrighted music or video
+- Post publicly and send link to AJ Foster
+- Topics: game strategy evaluation, CAD tips, or other season-start advice
+
+**Financial Support**:
+
+- FIRST Tech Challenge Hardship Grant now available
+- Review criteria at [firstinspires.org/robotics/team-grants](https://www.firstinspires.org/robotics/team-grants)
+- Contact AJ Foster to apply
+`,A=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],I=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(I,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function D(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:y,summary:R}),e.jsx(t,{content:v,summary:S}),e.jsx(t,{content:b,summary:T}),e.jsx(t,{content:w,summary:F}),e.jsx(t,{content:f,summary:C}),e.jsx(t,{content:p}),e.jsx(t,{content:g}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{D as default,A as meta};
