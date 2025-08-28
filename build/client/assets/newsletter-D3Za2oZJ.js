@@ -1,4 +1,4 @@
-import{j as e,r}from"./jsx-runtime-d4vcKfGz.js";import{M as i}from"./markdown-nVLLpt3n.js";const l=`# Introducing the all new Florida First Tech Challenge website!
+import{j as e,r}from"./jsx-runtime-d4vcKfGz.js";import{M as i}from"./markdown-CJYhZ9p4.js";const l=`# Introducing the all new Florida First Tech Challenge website!
 
 _August 21st, 2024_
 
@@ -53,13 +53,13 @@ The Florida FTC season theme this year is Robot Design. Therefore, this newslett
 
 The following are the topics covered in this Florida FTC newsletter:
 
-1.                               New Florida FIRST Tech Challenge Website (www.flfirst.org)
+1.                                New Florida FIRST Tech Challenge Website (www.flfirst.org)
 
-2.                               AJ’s Tech Corner
+2.                                AJ’s Tech Corner
 
-3.                               SDK 10.1 Released: Use REV Hardware Client to Update
+3.                                SDK 10.1 Released: Use REV Hardware Client to Update
 
-4.                               Robot Design Ideas
+4.                                Robot Design Ideas
 
 ## Newsletter Details
 
@@ -333,7 +333,7 @@ Lottery entry emails must be received by **January 10, 2025**.
 Reminder: Teams invited to the Florida Championship are required to pay a $200 event registration fee and must arrive at the venue by **11:00 am on Friday, February 28, 2025**, to complete the robot inspection process and begin alliance matches.
 
 _– Hans Wolf_
-`,w=`# Florida FTC 2024-25 Newsletter #11
+`,f=`# Florida FTC 2024-25 Newsletter #11
 
 _December 10, 2024_
 
@@ -391,7 +391,7 @@ For more details, review Section 6.4.1 Dean’s List Award in the Competition Ma
 **Important Reminder**: Review all Team Updates published by FIRST before attending your next event.
 
 _– Hans Wolf_
-`,f=`# Florida FTC 2024-25 Newsletter #12
+`,w=`# Florida FTC 2024-25 Newsletter #12
 
 _January 6th, 2025_
 
@@ -691,4 +691,73 @@ Activities include:
 
 - Review the six published Team Updates before attending events.
 - Updates available on the [FIRST Game and Season Info page](https://www.firstinspires.org/resource-library/ftc/game-and-season-info).
-`,L=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],R=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(R,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function k(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:y}),e.jsx(t,{content:v}),e.jsx(t,{content:b,summary:T}),e.jsx(t,{content:f,summary:F}),e.jsx(t,{content:w,summary:C}),e.jsx(t,{content:p}),e.jsx(t,{content:g}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{k as default,L as meta};
+`,R=`## Newsletter #14 Summary
+
+**Kickoff Date**:
+
+- Saturday, September 6th, 2025
+- 2025–2026 DECODE™ presented by RTX season
+
+**In-Person Kickoff Locations**:
+
+- **AeroCoast**: The Doolittle Institute, Niceville, FL
+- **FUN & South Florida**: Boca Raton High School, Boca Raton, FL
+- **Gulf Coast**: Seminole High School, Seminole, FL
+- **Northeast Florida**: The Bolles School, Jacksonville, FL
+- **Orlando Robotics**: Lake Highland Preparatory School, Orlando, FL
+- **ROBOT**: Location to be announced
+- **Space Coast**: Holy Trinity Episcopal Academy, Melbourne, FL
+
+**Virtual Kickoff**:
+
+- Live broadcast at [YouTube @FIRSTInFlorida](https://www.youtube.com/@FIRSTInFlorida)
+- Starts at 11:30am ET on Saturday, September 6th
+- Includes: welcome message, advancement changes discussion, official game reveal, rules commentary, and Q&A
+
+**Video Submission Reminder**:
+
+- Deadline: Friday, August 29th, 2025
+- 30-second video (1 minute maximum)
+- Film in landscape format
+- No copyrighted music or video
+- Post publicly and send link to AJ Foster
+- Topics: game strategy evaluation, CAD tips, or other season-start advice
+
+**Action Items**:
+
+- Check [flfirst.org/events](https://flfirst.org/events) for updated event information
+- Look for communication from local league for registration instructions
+- Submit video links by August 29th deadline
+`,S=`## Newsletter #13 Summary
+
+**Leadership Change**:
+
+- AJ Foster is the new Program Delivery Partner for Florida FTC
+- Hans Wolf has retired after more than 10 years of service
+
+**Season Information**:
+
+- 2025–2026 DECODE™ presented by RTX season
+- Kickoff is one month away from August 7th, 2025
+
+**Kickoff Events**:
+
+- Most leagues will host in-person kickoff gatherings
+- Details to be finalized and posted on [flfirst.org/events](https://flfirst.org/events)
+- Virtual kickoff broadcast available on [YouTube @FIRSTInFlorida](https://www.youtube.com/@FIRSTInFlorida)
+
+**Video Submission**:
+
+- Deadline: Friday, August 29th, 2025
+- 30-second video (1 minute maximum)
+- Film in landscape format
+- No copyrighted music or video
+- Post publicly and send link to AJ Foster
+- Topics: game strategy evaluation, CAD tips, or other season-start advice
+
+**Financial Support**:
+
+- FIRST Tech Challenge Hardship Grant now available
+- Review criteria at [firstinspires.org/robotics/team-grants](https://www.firstinspires.org/robotics/team-grants)
+- Contact AJ Foster to apply
+`,A=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],I=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(I,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function D(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:y,summary:R}),e.jsx(t,{content:v,summary:S}),e.jsx(t,{content:b,summary:T}),e.jsx(t,{content:w,summary:F}),e.jsx(t,{content:f,summary:C}),e.jsx(t,{content:p}),e.jsx(t,{content:g}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{D as default,A as meta};
