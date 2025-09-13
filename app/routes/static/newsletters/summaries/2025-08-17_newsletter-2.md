@@ -1,4 +1,4 @@
-## Newsletter #14 Summary
+## Newsletter #2 Summary
 
 **Kickoff Date**:
 

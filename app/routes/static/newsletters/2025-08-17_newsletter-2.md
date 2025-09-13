@@ -1,3 +1,5 @@
+# Florida 2025–2026 Newsletter #2
+
 Hello teams, volunteers, and friends,
 
 This newsletter contains additional information about the in-person and virtual kickoff experiences on Saturday, September 6th for the 2025–2026 DECODE™ presented by RTX season.

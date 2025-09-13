@@ -1,4 +1,4 @@
-## Newsletter #13 Summary
+## Newsletter #1 Summary
 
 **Leadership Change**:
 
