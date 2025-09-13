@@ -1,4 +1,4 @@
-# Florida FTC 2024-25 Newsletter #13
+# Florida 2025–2026 Newsletter #1
 
 _August 7th, 2025_
 

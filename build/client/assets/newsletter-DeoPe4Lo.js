@@ -53,13 +53,13 @@ The Florida FTC season theme this year is Robot Design. Therefore, this newslett
 
 The following are the topics covered in this Florida FTC newsletter:
 
-1.                                New Florida FIRST Tech Challenge Website (www.flfirst.org)
+1.                                   New Florida FIRST Tech Challenge Website (www.flfirst.org)
 
-2.                                AJ’s Tech Corner
+2.                                   AJ’s Tech Corner
 
-3.                                SDK 10.1 Released: Use REV Hardware Client to Update
+3.                                   SDK 10.1 Released: Use REV Hardware Client to Update
 
-4.                                Robot Design Ideas
+4.                                   Robot Design Ideas
 
 ## Newsletter Details
 
@@ -224,7 +224,7 @@ Volunteers: The Florida Championship event is now in the FIRST Volunteer Managem
 To register, Team Coach #1 and #2 must create an account using the same email address linked to their FIRST Dashboard. Locate your league and event by scrolling down the Events page, then select the “Register” button. If the button is grayed out, the registration window is not yet open. You’ll be prompted to create an account in the Region Manager system. For assistance, watch this short video explaining the event registration process: [https://youtu.be/AoQfTYcof1Q](https://youtu.be/AoQfTYcof1Q).
 
 _– Hans Wolf_
-`,g=`# Florida FTC 2024-25 Newsletter #9
+`,p=`# Florida FTC 2024-25 Newsletter #9
 
 _November 14, 2024_
 
@@ -285,7 +285,7 @@ Ranking Score (RS) is the average of a team’s Ranking Points (RP), where:
 For details, review Section 13.5 Qualification Matches in the Competition Manual.
 
 _– Hans Wolf_
-`,p=`# Florida FTC 2024-25 Newsletter #10
+`,g=`# Florida FTC 2024-25 Newsletter #10
 
 _November 24, 2024_
 
@@ -479,7 +479,7 @@ Fifty-six (56) Florida FTC teams will receive invitations to the state champions
 _See you all at the Florida Championship!_
 
 _-- Hans Wolf_
-`,v=`# Florida FTC 2024-25 Newsletter #13
+`,y=`# Florida 2025–2026 Newsletter #1
 
 _August 7th, 2025_
 
@@ -516,7 +516,9 @@ See you soon!
 Program Deliver Partner · Florida<br />
 Global Key · Technology<br />
 _FIRST_ Tech Challenge
-`,y=`Hello teams, volunteers, and friends,
+`,v=`# Florida 2025–2026 Newsletter #2
+
+Hello teams, volunteers, and friends,
 
 This newsletter contains additional information about the in-person and virtual kickoff experiences on Saturday, September 6th for the 2025–2026 DECODE™ presented by RTX season.
 
@@ -562,42 +564,78 @@ See you soon!
 Program Deliver Partner · Florida<br />
 Global Key · Technology<br />
 _FIRST_ Tech Challenge
-`,T=`## Newsletter #13 Summary
+`,T=`# Florida 2025–2026 Newsletter #3
 
-**League Tournaments Schedule**:
+Hello Florida _FIRST_ Tech Challenge,
 
-- January 25, 2025: AeroCoast and Orlando Robotics League Tournaments.
-- February 1, 2025: FUN, Gulf Coast, Northeast Florida, ROBOT, South Florida, and Space Coast League Tournaments.
-- League Tournaments include judge interviews, alliance selection, Play-off Matches, and Awards Ceremony.
+I hope you enjoyed kickoff, and are excited for the DECODE™ presented by RTX season. This newsletter contains an overview of important dates for the season.
 
-**Florida Championship Details**:
+## 2025–2026 Season Calendar
 
-- Date: February 28–March 1, 2025.
-- Location: AdventHealth Fieldhouse, Winter Haven, FL.
-- Arrival: Teams must arrive by 11:00 AM on February 28 for inspections and qualification matches.
-- Registration Fee: $200 per team.
-- Confirmation: Respond to the invitation email within 48 hours to secure your spot.
+- ✓ **September 6**: Kickoff (recording available [here](https://www.youtube.com/watch?v=X2vQ5gqZXG4))
+- ✓ **September 11**: The first [Team Update](https://ftc-resources.firstinspires.org/ftc/game/tu-combined) was published already (they'll arrive weekly)
+- **September 22**: [Team Q&A](https://ftc-qa.firstinspires.org/) opens (see section 1.9 in the Competition Manual) ([registration instructions](https://info.firstinspires.org/hubfs/web/program/ftc/team-qa-registration-instructions.pdf))
+- **September 25 – January 12**: Submissions open for the [Digital Animation Award](https://www.firstinspires.org/resource-library/frc/digital-animation-award)
+- **Late September – Early October**: Leagues host scrimmages, build days, trainings, and workshops
+- **Early October**: Target date for volunteer training resources to be available
+- **October – January**: Leagues host _League Meets_
+- **October 13 – November 20**: Submissions open for the [Safety Animation Award](https://www.firstinspires.org/robotics/frc/safety) (new!)
+- **December 15**: [Dean’s List Award](https://www.firstinspires.org/robotics/ftc/deans-list) nominations are due ([nomination guide](https://info.firstinspires.org/hubfs/web/program/ftc/guide-deans-list-nominations-v25-26.1.pdf))
+- **February 7**: End of the regular season (all League Tournaments complete)
+- **March 6–7**: Florida Championship
+- **April 29 – May 2**: FIRST Championship
 
-**T-Shirt Design Contest Winner**:
+See [https://flfirst.org/events](https://flfirst.org/events) for all of our officially scheduled events. The site will be updated as remaining events are published by FIRST.
 
-- Winner: Team 27234, the Radical Raiders, from the F.U.N. League.
+See you soon!
 
-**Teams Advancing to the Florida Championship**:
+**AJ Foster**<br />
+Program Deliver Partner · Florida<br />
+Global Key · Technology<br />
+_FIRST_ Tech Challenge
+`,F=`## Newsletter #11 Summary
 
-- One (1) team: Lottery winner.
-- One (1) team: T-shirt design contest winner.
-- Fifty-four (54) teams from League Tournaments:
-  - AeroCoast: 6 teams
-  - Gulf Coast: 8 teams
-  - F.U.N.: 6 teams
-  - Orlando Robotics: 6 teams
-  - Northeast Florida: 8 teams
-  - ROBOT: 6 teams
-  - South Florida: 8 teams
-  - Space Coast: 6 teams
+**Dean’s List Nominations**:
 
-Good luck to all teams in the League Tournaments!
-`,F=`## Newsletter #12 Summary
+- Deadline: December 15, 2024.
+- Submit essays via the FIRST dashboard under the “Florida Dean’s List Interview” event.
+- Each team may nominate up to 2 students (10th/11th grade).
+- Interviews held at league tournaments; finalists announced on March 1, 2025.
+- Finalists compete for Dean’s List Winner titles at the World Championship in April 2025.
+
+**Key Rule Changes**:
+
+- Team Numbers:
+  - No Alliance Markers required.
+  - Two red and two blue team numbers with white text needed (template available upon request).
+- Servos:
+  - Output power <8 watts, stall current <4 amps.
+  - Validated servo list in the _Inspection Quick Reference_.
+- Horizontal Expansion:
+  - Robots must stay within a 20x42-inch area after the match begins.
+  - Violations apply if the robot exceeds limits during gameplay.
+
+**Competition Manual Updates**:
+
+- Human Players:
+
+  - May only place SCORING ELEMENTS in the OBSERVATION ZONE during AUTO and TELEOP.
+  - Simultaneous contact by Robots and Human Players is prohibited.
+
+- Horizontal Expansion:
+
+  - Expansion must stay coplanar to the floor.
+  - Re-inspection no longer required for violations.
+
+- ASCEND Scoring:
+
+  - Robots may stabilize on the SUBMERSIBLE but must not touch it at match end.
+
+**Action Items**:
+
+- Review the six published Team Updates before attending events.
+- Updates available on the [FIRST Game and Season Info page](https://www.firstinspires.org/resource-library/ftc/game-and-season-info).
+`,C=`## Newsletter #12 Summary
 
 **Florida Championship**:
 
@@ -649,49 +687,74 @@ Activities include:
 - Hybrid judging interviews conducted online.
 - Engineering Portfolio replaces multiple documents for awards.
 - Playoff structure uses double elimination.
-`,C=`## Newsletter #11 Summary
+`,S=`## Newsletter #13 Summary
 
-**Dean’s List Nominations**:
+**League Tournaments Schedule**:
 
-- Deadline: December 15, 2024.
-- Submit essays via the FIRST dashboard under the “Florida Dean’s List Interview” event.
-- Each team may nominate up to 2 students (10th/11th grade).
-- Interviews held at league tournaments; finalists announced on March 1, 2025.
-- Finalists compete for Dean’s List Winner titles at the World Championship in April 2025.
+- January 25, 2025: AeroCoast and Orlando Robotics League Tournaments.
+- February 1, 2025: FUN, Gulf Coast, Northeast Florida, ROBOT, South Florida, and Space Coast League Tournaments.
+- League Tournaments include judge interviews, alliance selection, Play-off Matches, and Awards Ceremony.
 
-**Key Rule Changes**:
+**Florida Championship Details**:
 
-- Team Numbers:
-  - No Alliance Markers required.
-  - Two red and two blue team numbers with white text needed (template available upon request).
-- Servos:
-  - Output power <8 watts, stall current <4 amps.
-  - Validated servo list in the _Inspection Quick Reference_.
-- Horizontal Expansion:
-  - Robots must stay within a 20x42-inch area after the match begins.
-  - Violations apply if the robot exceeds limits during gameplay.
+- Date: February 28–March 1, 2025.
+- Location: AdventHealth Fieldhouse, Winter Haven, FL.
+- Arrival: Teams must arrive by 11:00 AM on February 28 for inspections and qualification matches.
+- Registration Fee: $200 per team.
+- Confirmation: Respond to the invitation email within 48 hours to secure your spot.
 
-**Competition Manual Updates**:
+**T-Shirt Design Contest Winner**:
 
-- Human Players:
+- Winner: Team 27234, the Radical Raiders, from the F.U.N. League.
 
-  - May only place SCORING ELEMENTS in the OBSERVATION ZONE during AUTO and TELEOP.
-  - Simultaneous contact by Robots and Human Players is prohibited.
+**Teams Advancing to the Florida Championship**:
 
-- Horizontal Expansion:
+- One (1) team: Lottery winner.
+- One (1) team: T-shirt design contest winner.
+- Fifty-four (54) teams from League Tournaments:
+  - AeroCoast: 6 teams
+  - Gulf Coast: 8 teams
+  - F.U.N.: 6 teams
+  - Orlando Robotics: 6 teams
+  - Northeast Florida: 8 teams
+  - ROBOT: 6 teams
+  - South Florida: 8 teams
+  - Space Coast: 6 teams
 
-  - Expansion must stay coplanar to the floor.
-  - Re-inspection no longer required for violations.
+Good luck to all teams in the League Tournaments!
+`,R=`## Newsletter #1 Summary
 
-- ASCEND Scoring:
+**Leadership Change**:
 
-  - Robots may stabilize on the SUBMERSIBLE but must not touch it at match end.
+- AJ Foster is the new Program Delivery Partner for Florida FTC
+- Hans Wolf has retired after more than 10 years of service
 
-**Action Items**:
+**Season Information**:
 
-- Review the six published Team Updates before attending events.
-- Updates available on the [FIRST Game and Season Info page](https://www.firstinspires.org/resource-library/ftc/game-and-season-info).
-`,R=`## Newsletter #14 Summary
+- 2025–2026 DECODE™ presented by RTX season
+- Kickoff is one month away from August 7th, 2025
+
+**Kickoff Events**:
+
+- Most leagues will host in-person kickoff gatherings
+- Details to be finalized and posted on [flfirst.org/events](https://flfirst.org/events)
+- Virtual kickoff broadcast available on [YouTube @FIRSTInFlorida](https://www.youtube.com/@FIRSTInFlorida)
+
+**Video Submission**:
+
+- Deadline: Friday, August 29th, 2025
+- 30-second video (1 minute maximum)
+- Film in landscape format
+- No copyrighted music or video
+- Post publicly and send link to AJ Foster
+- Topics: game strategy evaluation, CAD tips, or other season-start advice
+
+**Financial Support**:
+
+- FIRST Tech Challenge Hardship Grant now available
+- Review criteria at [firstinspires.org/robotics/team-grants](https://www.firstinspires.org/robotics/team-grants)
+- Contact AJ Foster to apply
+`,I=`## Newsletter #2 Summary
 
 **Kickoff Date**:
 
@@ -728,36 +791,22 @@ Activities include:
 - Check [flfirst.org/events](https://flfirst.org/events) for updated event information
 - Look for communication from local league for registration instructions
 - Submit video links by August 29th deadline
-`,S=`## Newsletter #13 Summary
+`,L=`## Newsletter #3 Summary
 
-**Leadership Change**:
+**Kickoff**
 
-- AJ Foster is the new Program Delivery Partner for Florida FTC
-- Hans Wolf has retired after more than 10 years of service
+- Kickoff was September 6th
+- You can watch the broadcast [here](https://www.youtube.com/watch?v=X2vQ5gqZXG4)
 
-**Season Information**:
+**Season Schedule**:
 
-- 2025–2026 DECODE™ presented by RTX season
-- Kickoff is one month away from August 7th, 2025
+- It's started!
+- Florida Championship is March 6–7, 2026
 
-**Kickoff Events**:
+**Action Items**:
 
-- Most leagues will host in-person kickoff gatherings
-- Details to be finalized and posted on [flfirst.org/events](https://flfirst.org/events)
-- Virtual kickoff broadcast available on [YouTube @FIRSTInFlorida](https://www.youtube.com/@FIRSTInFlorida)
-
-**Video Submission**:
-
-- Deadline: Friday, August 29th, 2025
-- 30-second video (1 minute maximum)
-- Film in landscape format
-- No copyrighted music or video
-- Post publicly and send link to AJ Foster
-- Topics: game strategy evaluation, CAD tips, or other season-start advice
-
-**Financial Support**:
-
-- FIRST Tech Challenge Hardship Grant now available
-- Review criteria at [firstinspires.org/robotics/team-grants](https://www.firstinspires.org/robotics/team-grants)
-- Contact AJ Foster to apply
-`,A=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],I=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(I,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function D(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:y,summary:R}),e.jsx(t,{content:v,summary:S}),e.jsx(t,{content:b,summary:T}),e.jsx(t,{content:w,summary:F}),e.jsx(t,{content:f,summary:C}),e.jsx(t,{content:p}),e.jsx(t,{content:g}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{D as default,A as meta};
+- Check [flfirst.org/events](https://flfirst.org/events) for updated event information
+- [Safety Animation Award](https://www.firstinspires.org/robotics/frc/safety) submissions due 11/20
+- [Dean’s List Award](https://www.firstinspires.org/robotics/ftc/deans-list) nominations due 12/15
+- [Digital Animation Award](https://www.firstinspires.org/resource-library/frc/digital-animation-award) submissions due 1/12
+`,E=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],k=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(k,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function N(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:T,summary:L}),e.jsx(t,{content:v,summary:I}),e.jsx(t,{content:y,summary:R}),e.jsx(t,{content:b,summary:S}),e.jsx(t,{content:w,summary:C}),e.jsx(t,{content:f,summary:F}),e.jsx(t,{content:g}),e.jsx(t,{content:p}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{N as default,E as meta};
