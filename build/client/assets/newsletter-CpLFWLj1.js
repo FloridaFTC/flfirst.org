@@ -53,13 +53,13 @@ The Florida FTC season theme this year is Robot Design. Therefore, this newslett
 
 The following are the topics covered in this Florida FTC newsletter:
 
-1.                                 New Florida FIRST Tech Challenge Website (www.flfirst.org)
+1.                                  New Florida FIRST Tech Challenge Website (www.flfirst.org)
 
-2.                                 AJ’s Tech Corner
+2.                                  AJ’s Tech Corner
 
-3.                                 SDK 10.1 Released: Use REV Hardware Client to Update
+3.                                  SDK 10.1 Released: Use REV Hardware Client to Update
 
-4.                                 Robot Design Ideas
+4.                                  Robot Design Ideas
 
 ## Newsletter Details
 
@@ -251,7 +251,7 @@ For more details, review Section 6.4.1 Dean’s List Award in the Competition Ma
 
 Design submissions are due by **December 20, 2024** and must meet the following requirements:
 
-- Submit the design as a high-resolution JPG file to hans.wolf@verizon.net.
+- Submit the design as a high-resolution JPG file to (submissions closed).
 - The file must be single-color.
 - Include the text: “Florida Championship 2025.”
 - Incorporate the official _INTO THE DEEP℠ presented by Raytheon Technologies_ game logo.
@@ -305,7 +305,7 @@ The following are the topics covered in this Florida FTC newsletter:
 
 Design requirements:
 
-- Email design files to hanskwolf@gmail.com or hans.wolf@verizon.net by **midnight December 20, 2024**.
+- Email design files to (submissions closed) by **midnight December 20, 2024**.
 - Submit the design as a high-resolution JPG file.
 - The design must be single color.
 - Include the text: “Florida Championship 2025.”
@@ -325,7 +325,7 @@ For more details, review Section 6.4.1 Dean’s List Award in the Competition Ma
 - One team will qualify by winning the volunteer t-shirt design contest.
 - One additional team will be selected through the lottery.
 
-The lottery is an excellent opportunity for teams that have not recently attended the Florida Championship. To enter, the head coach must email hanskwolf@gmail.com with the following subject line:  
+The lottery is an excellent opportunity for teams that have not recently attended the Florida Championship. To enter, the head coach must email (submissions closed) with the following subject line:  
 **“Florida Championship Lottery: Team #xxxxx”** (replace "xxxxx" with your FTC team number).
 
 Lottery entry emails must be received by **January 10, 2025**.
@@ -361,7 +361,7 @@ For more details, review Section 6.4.1 Dean’s List Award in the Competition Ma
 
   - Teams no longer need Alliance Markers.
   - Teams must have two red-background and two blue-background team numbers in white.
-  - A Microsoft Word template is available for teams with access to a color printer. Email hans.wolf@verizon.net to request the template.
+  - A Microsoft Word template is available for teams with access to a color printer. Email (submissions closed) to request the template.
 
 - Servos (R502):
 

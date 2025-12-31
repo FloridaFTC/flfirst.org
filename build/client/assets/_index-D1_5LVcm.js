@@ -6,7 +6,7 @@ The Florida _FIRST Tech Challenge™_ program includes **215+** teams from Pensa
 
 For more information contact:
 
-Hans Wolf – hanskwolf@gmail.com or hwolf@firstpartners.org
-
-FIRST Program Delivery Partner (PDP)
+<strong>AJ Foster</strong><br>
+Program Delivery Partner<br>
+[afoster@firstpartners.org](mailto:afoster@firstpartners.org)
 `,s=()=>[{title:"Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}];function l(){return e.jsxs("div",{className:"bg-white shadow-md p-4 max-w-5xl mx-auto flex flex-col gap-2",children:[e.jsx(a,{text:"Florida FIRST Tech Challenge",image:"cover.jpg"}),e.jsx(o,{markdown:r})]})}export{l as default,s as meta};
