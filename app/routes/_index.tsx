@@ -15,7 +15,11 @@ export default function Index() {
   return (
     <div className="bg-white shadow-md p-4 max-w-5xl mx-auto flex flex-col gap-2">
       <ContentPageHeading
-        text="Florida FIRST Tech Challenge"
+        text={
+          <>
+            Florida <i>FIRST</i> Tech Challenge
+          </>
+        }
         image="cover.jpg"
       />
       <Markdown markdown={cover} />
