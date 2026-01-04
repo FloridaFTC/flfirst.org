@@ -25,7 +25,7 @@ For more details, review Section 6.4.1 Dean’s List Award in the Competition Ma
 
 Design submissions are due by **December 20, 2024** and must meet the following requirements:
 
-- Submit the design as a high-resolution JPG file to hans.wolf@verizon.net.
+- Submit the design as a high-resolution JPG file to (submissions closed).
 - The file must be single-color.
 - Include the text: “Florida Championship 2025.”
 - Incorporate the official _INTO THE DEEP℠ presented by Raytheon Technologies_ game logo.

@@ -1,4 +1,4 @@
-## Newsletter #14 Summary
+## 2025–2026 Newsletter #2 Summary
 
 **Kickoff Date**:
 

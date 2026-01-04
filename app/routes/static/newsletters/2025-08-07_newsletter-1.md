@@ -1,4 +1,4 @@
-# Florida FTC 2024-25 Newsletter #13
+# 2025–2026 Newsletter #1: Kickoff
 
 _August 7th, 2025_
 
@@ -31,7 +31,12 @@ One last note: the FIRST Tech Challenge Hardship Grant is now available. Please 
 
 See you soon!
 
-**AJ Foster**<br />
-Program Deliver Partner · Florida<br />
-Global Key · Technology<br />
-_FIRST_ Tech Challenge
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>

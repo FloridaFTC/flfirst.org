@@ -1,4 +1,4 @@
-## Newsletter #13 Summary
+## 2025–2026 Newsletter #1 Summary
 
 **Leadership Change**:
 

@@ -48,7 +48,7 @@ export default function NotFound() {
           </p>
           <p>
             <span>
-              Additionally, copies of Hans' newsletters can be found{" "}
+              Additionally, copies of the newsletter can be found{" "}
               <a
                 href="/newsletter"
                 className="text-gray-500 underline hover:text-blue-600"

@@ -53,13 +53,13 @@ The Florida FTC season theme this year is Robot Design. Therefore, this newslett
 
 The following are the topics covered in this Florida FTC newsletter:
 
-1.                                New Florida FIRST Tech Challenge Website (www.flfirst.org)
+1.                                      New Florida FIRST Tech Challenge Website (www.flfirst.org)
 
-2.                                AJ’s Tech Corner
+2.                                      AJ’s Tech Corner
 
-3.                                SDK 10.1 Released: Use REV Hardware Client to Update
+3.                                      SDK 10.1 Released: Use REV Hardware Client to Update
 
-4.                                Robot Design Ideas
+4.                                      Robot Design Ideas
 
 ## Newsletter Details
 
@@ -224,7 +224,7 @@ Volunteers: The Florida Championship event is now in the FIRST Volunteer Managem
 To register, Team Coach #1 and #2 must create an account using the same email address linked to their FIRST Dashboard. Locate your league and event by scrolling down the Events page, then select the “Register” button. If the button is grayed out, the registration window is not yet open. You’ll be prompted to create an account in the Region Manager system. For assistance, watch this short video explaining the event registration process: [https://youtu.be/AoQfTYcof1Q](https://youtu.be/AoQfTYcof1Q).
 
 _– Hans Wolf_
-`,g=`# Florida FTC 2024-25 Newsletter #9
+`,p=`# Florida FTC 2024-25 Newsletter #9
 
 _November 14, 2024_
 
@@ -251,7 +251,7 @@ For more details, review Section 6.4.1 Dean’s List Award in the Competition Ma
 
 Design submissions are due by **December 20, 2024** and must meet the following requirements:
 
-- Submit the design as a high-resolution JPG file to hans.wolf@verizon.net.
+- Submit the design as a high-resolution JPG file to (submissions closed).
 - The file must be single-color.
 - Include the text: “Florida Championship 2025.”
 - Incorporate the official _INTO THE DEEP℠ presented by Raytheon Technologies_ game logo.
@@ -285,7 +285,7 @@ Ranking Score (RS) is the average of a team’s Ranking Points (RP), where:
 For details, review Section 13.5 Qualification Matches in the Competition Manual.
 
 _– Hans Wolf_
-`,p=`# Florida FTC 2024-25 Newsletter #10
+`,g=`# Florida FTC 2024-25 Newsletter #10
 
 _November 24, 2024_
 
@@ -305,7 +305,7 @@ The following are the topics covered in this Florida FTC newsletter:
 
 Design requirements:
 
-- Email design files to hanskwolf@gmail.com or hans.wolf@verizon.net by **midnight December 20, 2024**.
+- Email design files to (submissions closed) by **midnight December 20, 2024**.
 - Submit the design as a high-resolution JPG file.
 - The design must be single color.
 - Include the text: “Florida Championship 2025.”
@@ -325,7 +325,7 @@ For more details, review Section 6.4.1 Dean’s List Award in the Competition Ma
 - One team will qualify by winning the volunteer t-shirt design contest.
 - One additional team will be selected through the lottery.
 
-The lottery is an excellent opportunity for teams that have not recently attended the Florida Championship. To enter, the head coach must email hanskwolf@gmail.com with the following subject line:  
+The lottery is an excellent opportunity for teams that have not recently attended the Florida Championship. To enter, the head coach must email (submissions closed) with the following subject line:  
 **“Florida Championship Lottery: Team #xxxxx”** (replace "xxxxx" with your FTC team number).
 
 Lottery entry emails must be received by **January 10, 2025**.
@@ -361,7 +361,7 @@ For more details, review Section 6.4.1 Dean’s List Award in the Competition Ma
 
   - Teams no longer need Alliance Markers.
   - Teams must have two red-background and two blue-background team numbers in white.
-  - A Microsoft Word template is available for teams with access to a color printer. Email hans.wolf@verizon.net to request the template.
+  - A Microsoft Word template is available for teams with access to a color printer. Email (submissions closed) to request the template.
 
 - Servos (R502):
 
@@ -479,7 +479,7 @@ Fifty-six (56) Florida FTC teams will receive invitations to the state champions
 _See you all at the Florida Championship!_
 
 _-- Hans Wolf_
-`,v=`# Florida FTC 2024-25 Newsletter #13
+`,y=`# 2025–2026 Newsletter #1: Kickoff
 
 _August 7th, 2025_
 
@@ -512,11 +512,18 @@ One last note: the FIRST Tech Challenge Hardship Grant is now available. Please 
 
 See you soon!
 
-**AJ Foster**<br />
-Program Deliver Partner · Florida<br />
-Global Key · Technology<br />
-_FIRST_ Tech Challenge
-`,y=`Hello teams, volunteers, and friends,
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>
+`,v=`# 2025–2026 Newsletter #2: Kickoff Details
+
+Hello teams, volunteers, and friends,
 
 This newsletter contains additional information about the in-person and virtual kickoff experiences on Saturday, September 6th for the 2025–2026 DECODE™ presented by RTX season.
 
@@ -558,11 +565,191 @@ Florida has a [history](https://www.youtube.com/watch?v=iBXi66IgZNc) of [creativ
 
 See you soon!
 
-**AJ Foster**<br />
-Program Deliver Partner · Florida<br />
-Global Key · Technology<br />
-_FIRST_ Tech Challenge
-`,T=`## Newsletter #13 Summary
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>
+`,T=`# 2025–2026 Newsletter #3: Season Calendar
+
+Hello Florida _FIRST_ Tech Challenge,
+
+I hope you enjoyed kickoff, and are excited for the DECODE™ presented by RTX season. This email contains an overview of important dates for the season.
+
+**2025–2026 Season Calendar**
+
+- ✓ September 6: Kickoff (recording available [here](https://www.youtube.com/watch?v=X2vQ5gqZXG4))
+- ✓ September 11: The first [Team Update](https://ftc-resources.firstinspires.org/ftc/game/tu-combined) was published already (they'll arrive weekly)
+- September 22: [Team Q&A](https://ftc-qa.firstinspires.org/) opens (see section 1.9 in the Competition Manual) ([registration instructions](https://info.firstinspires.org/hubfs/web/program/ftc/team-qa-registration-instructions.pdf))
+- September 25 – January 12: Submissions open for the [Digital Animation Award](https://www.firstinspires.org/resource-library/frc/digital-animation-award)
+- Late September – Early October: Leagues host scrimmages, build days, trainings, and workshops
+- Early October: Target date for volunteer training resources to be available
+- October – January: Leagues host <i>League Meets</i>
+- October 13 – November 20: Submissions open for the [Safety Animation Award](https://www.firstinspires.org/robotics/frc/safety) (new!)
+- December 15: [Dean’s List Award](https://www.firstinspires.org/robotics/ftc/deans-list) nominations are due ([nomination guide](https://info.firstinspires.org/hubfs/web/program/ftc/guide-deans-list-nominations-v25-26.1.pdf))
+- February 7: End of the regular season (all <i>League Tournaments</i> complete)
+- March 6–7: Florida Championship
+- April 29 – May 2: <i>FIRST</i> Championship
+
+See [https://flfirst.org/events](https://flfirst.org/events) for all of our officially scheduled events. The site will be updated as remaining events are published by FIRST.
+
+See you soon!
+
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>
+`,F=`# 2025-2026 Newsletter #4: Team and Volunteer Training
+
+Hello Florida _FIRST_ Tech Challenge,
+
+This newsletter discusses volunteer training resources, but there’s an important note for teams as well.
+
+Training resources for mentors and most volunteer roles are now available. This season, _FIRST_ introduced a [new platform](https://training.firstinspires.org/) for training. You can access it directly (using that link), or you can use the **_FIRST_ Training** button in the Volunteer Registration section of your _FIRST_ Dashboard. It uses the same login as your _FIRST_ Dashboard account.
+
+To get started, you’ll take the **Welcome to _FIRST_** training. Some volunteer roles also require **Data Privacy for Event Volunteers**. After that, you’re free to access any of the volunteer trainings, regardless of whether or not you’ve applied for the role. If you _View Full Catalog_, you can also find training for Mentors. If you’re curious about _FIRST_ LEGO League, _FIRST_ Robotics Competition, or other topics like XRP, you can access those trainings as well. Go wild!
+
+**Teams**: One of the best ways to prepare for an event is to train as a volunteer. Regardless of whether or not you sign up for a role, it’s a great idea to have some of your students and mentors train in a variety of roles. I recommend starting with the **Robot Inspector** training, since this will be the first task you encounter at your first League Meet event. Later in the season, you can take the **Judge** training to understand more about the process before your League Tournament.
+
+Get started at https://training.firstinspires.org/, and have fun.
+
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>
+`,S=`# 2025–2026 Newsletter #5: Preparing for League Meets
+
+Hello Florida _FIRST_ Tech Challenge,
+
+As we approach the start of League Meet events, this email contains important things to consider.
+
+**1. Please Update FTC Apps to Version 11**
+
+Version 11.0 of the [applications](https://github.com/FIRST-Tech-Challenge/FtcRobotController) you use to control your robot has important improvements that will help you and event-day volunteers. Although _FIRST_ does not require a specific minimum version of this software, please update to version 11.0 to get these improvements.
+
+**2. No More Field Inspection**
+
+Previously, inspection was split between _Robot Inspection_ and _Field Inspection_. This season, there is only one unified _Inspection_ process. Review the [Inspection Checklist](https://ftc-resources.firstinspires.org/ftc/event/inspection-check) to understand where your inspectors will focus, and — if you want to be extra prepared — consider taking the Inspector training on [training.firstinspires.org](http://training.firstinspires.org/).
+
+**3. Practice Matches**
+
+In the absence of Field Inspection, many events will offer _Practice Matches_ as an opportunity to practice the full match process (from queueing to reset) at the beginning of your event. Read [Section 13.5](https://ftc-resources.firstinspires.org/ftc/game/manual-13) of the Competition Manual for more information, and — if you want to be extra prepared — read the _Practice Matches_ section of the [Field Operations Guide](https://ftc-resources.firstinspires.org/ftc/event/field-ops-guide) to understand more about the process.
+
+Some important items to remember:
+
+- Not all events are able to offer Practice Matches.
+- Practice Matches can be scheduled or open, and there are different processes for each.
+- Practice Matches may happen at the same time as inspection and (later in the season) judging interviews. Teams may not be able to participate in their scheduled match.
+- Your event may provide a “filler line” for teams to fill open spots in scheduled matches (or to fill all slots in open matches).
+
+This is a new process, so please be patient with your event-day volunteers.
+
+See you at an event soon!
+
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>
+`,C=`# 2025–2026 Newsletter #6: Future Florida Championships
+
+Hello Florida _FIRST_ Tech Challenge,
+
+Quick reminder: [Dean’s List Award](https://www.firstinspires.org/robotics/ftc/deans-list) nominations are due by December 15th.
+
+The rest of this email relates to future seasons of the Florida Championship event and ways you can help. **Short version**: we’re looking for potential venues, and we’re looking for sponsorship opportunities.
+
+As you may know, the Florida Championship event has been at the AdventHealth Fieldhouse in Winter Haven for several years. (We’ll be back on March 6–7, 2026 for this season's event.) The venue, staff, and financial support from _Visit Central Florida_ have been incredible. This is the final year of our standing agreement with them, which means it’s time to consider our options for March 2027 and beyond.
+
+While there are many things to love about the Fieldhouse, it’s starting to get a little tight on seating and pit space. Our program continues to grow — we’ve reached 256 teams! — and I’d love the option to expand the Florida Championship to more teams in the future.
+
+So what can you do to help?
+
+1. If you know of an appropriately-sized venue — and better yet, if you have contacts — please reach out to me. Remember that we have some notable requirements (it’s a dual-division event with 4 fields and at least 56 teams), so even an oversized gymnasium usually isn’t enough space. If you contact me, I’ll be happy to talk through the requirements with you. Cost will be a driving factor in many decisions.
+2. If you know of anyone who might be interested in sponsoring the Florida Championship, please reach out to me.
+
+Some of our past Florida Championship locations have come from connections made by viewers like you.
+
+Thank you for your help. See you at an event soon!
+
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>
+`,R=`# 2025–2026 Newsletter #7: Florida Championship (Ways to Attend)
+
+Hello Florida _FIRST_ Tech Challenge teams,
+
+_The short version_: The Florida Championship Volunteer T-Shirt Contest and Lottery are back. If you’re interested, read the requirements below.
+
+\\~\\~\\~
+
+We’re almost finished with events in 2025. That means it’s time to start looking forward to our League Tournaments and the Florida Championship event. This email contains information about the different ways to attend the Florida Championship.
+
+**About Advancement**
+
+56 teams will join us at the Florida Championship on March 6–7, 2026 at the AdventHealth Fieldhouse in Winter Haven. 54 of those teams will advance from our eight League Tournament events based on the [new advancement model](https://community.firstinspires.org/advancement-first-championship-update) introduced by _FIRST_ this season. (The exact number of teams advancing from each league will be announced in January.) One additional team will receive an invitation as the winner of the Volunteer T-Shirt Contest (more on that below). Finally, one additional team will receive an invitation from the team lottery (more on that too).
+
+This season, we are fortunate to advance **9 teams** from the Florida Championship to the _FIRST_ Championship in Houston, TX, and an **additional 13 teams** to Premier Events around the world.
+
+**Volunteer T-Shirt Contest**
+
+This season, I’m pleased to continue the Volunteer T-Shirt Contest for teams. A design selected from team submissions will be worn by our Florida Championship volunteers, and the team that submitted the winning design will receive an invitation to the Florida Championship. This is a great chance to express your creativity and lock in an automatic invitation.
+
+Submissions must adhere to the following guidelines:
+
+- Use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfK7dl8uHAvunv-E3gKvaYTy68Ew-fQH3MXohlim8UYN8ArOA/viewform?usp=header) to submit your design.
+- Submitted design must be digital (no scans or photos).
+- Uploaded file should be high-resolution or vector (JPEG, PNG, or SVG).
+- Design should use a single foreground color.
+- Design should include the text: "Florida Championship 2026"
+- Design should incorporate the official DECODE™ presented by RTX logo (available [here](https://info.firstinspires.org/free-season-content)).
+
+Submissions are due by 11:59pm ET on Saturday, January 3, 2026. I can’t wait to see what everyone comes up with!
+
+**Florida Championship Lottery**
+
+I’m also pleased to continue the lottery program for teams that have not recently attended the Florida Championship. Our final opening is filled with a randomly selected team, weighted by the number of seasons since their last appearance at the event.
+
+If you are interested in participating in the team lottery, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScNxe6ZjdTZIBHb8D16u8TwuRir813BVPRpDV10FOhqUUvJag/viewform?usp=header) by 11:59pm ET on Saturday, January 3, 2026.
+
+\\~\\~\\~
+
+I hope you have a relaxing new year and return excited to finish DECODE™ presented by RTX regular season play.
+
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>
+`,I=`## Newsletter #13 Summary
 
 **League Tournaments Schedule**:
 
@@ -597,7 +784,7 @@ _FIRST_ Tech Challenge
   - Space Coast: 6 teams
 
 Good luck to all teams in the League Tournaments!
-`,F=`## Newsletter #12 Summary
+`,A=`## Newsletter #12 Summary
 
 **Florida Championship**:
 
@@ -649,7 +836,7 @@ Activities include:
 - Hybrid judging interviews conducted online.
 - Engineering Portfolio replaces multiple documents for awards.
 - Playoff structure uses double elimination.
-`,C=`## Newsletter #11 Summary
+`,L=`## Newsletter #11 Summary
 
 **Dean’s List Nominations**:
 
@@ -691,7 +878,7 @@ Activities include:
 
 - Review the six published Team Updates before attending events.
 - Updates available on the [FIRST Game and Season Info page](https://www.firstinspires.org/resource-library/ftc/game-and-season-info).
-`,R=`## Newsletter #14 Summary
+`,D=`## 2025–2026 Newsletter #2 Summary
 
 **Kickoff Date**:
 
@@ -728,7 +915,7 @@ Activities include:
 - Check [flfirst.org/events](https://flfirst.org/events) for updated event information
 - Look for communication from local league for registration instructions
 - Submit video links by August 29th deadline
-`,S=`## Newsletter #13 Summary
+`,k=`## 2025–2026 Newsletter #1 Summary
 
 **Leadership Change**:
 
@@ -760,4 +947,175 @@ Activities include:
 - FIRST Tech Challenge Hardship Grant now available
 - Review criteria at [firstinspires.org/robotics/team-grants](https://www.firstinspires.org/robotics/team-grants)
 - Contact AJ Foster to apply
-`,A=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],I=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(I,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function D(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:y,summary:R}),e.jsx(t,{content:v,summary:S}),e.jsx(t,{content:b,summary:T}),e.jsx(t,{content:w,summary:F}),e.jsx(t,{content:f,summary:C}),e.jsx(t,{content:p}),e.jsx(t,{content:g}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{D as default,A as meta};
+`,N=`## Newsletter #3 Summary
+
+**Important Dates**:
+
+- September 22: Team Q&A opens (registration required)
+- September 25 – January 12: Digital Animation Award submissions open
+- October 13 – November 20: Safety Animation Award submissions open (new award)
+- December 15: Dean's List Award nominations due
+- February 7: Regular season ends (all League Tournaments complete)
+- March 6–7: Florida Championship
+- April 29 – May 2: FIRST Championship
+
+**Season Activities**:
+
+- Late September – Early October: Leagues host scrimmages, build days, trainings, and workshops
+- October – January: Leagues host League Meets
+- Early October: Volunteer training resources available
+
+**Key Resources**:
+
+- Kickoff recording available on YouTube
+- Weekly Team Updates published every Wednesday
+- Team Q&A system opens September 22
+- Event schedule available at flfirst.org/events
+
+**Action Items**:
+
+- Register for Team Q&A system
+- Submit Safety Animation Award entries by November 20
+- Submit Dean's List Award nominations by December 15
+- Submit Digital Animation Award entries by January 12
+`,E=`## Newsletter #4 Summary
+
+**Training Platform**:
+
+- New FIRST training platform available at https://training.firstinspires.org/
+- Access via FIRST Dashboard Volunteer Registration section
+- Uses same login as FIRST Dashboard account
+
+**Available Training Options**:
+
+- Mentor training accessible via "View Full Catalog"
+- FIRST LEGO League and FIRST Robotics Competition trainings
+- XRP and other specialized topic trainings
+- All trainings available regardless of volunteer application status
+
+**Team Recommendations**:
+
+- Train as volunteers to prepare for events
+- Start with Robot Inspector training for first League Meet
+- Take Judge training before League Tournament
+- Have students and mentors train in various roles
+
+**Action Items**:
+
+- Access training platform at https://training.firstinspires.org/
+- Complete Welcome to FIRST training
+- Consider Robot Inspector training for upcoming League Meets
+- Plan Judge training for later season preparation
+`,M=`## Newsletter #5 Summary
+
+**Software Updates**:
+
+- Update FTC Apps to Version 11.0 for important improvements
+- Version 11.0 helps teams and event-day volunteers
+- Not required by FIRST but strongly recommended
+
+**Inspection Changes**:
+
+- No more separate Field Inspection process
+- Unified single Inspection process this season
+- Review Inspection Checklist for focus areas
+- Consider taking Inspector training for preparation
+
+**Practice Matches**:
+
+- New process replacing Field Inspection
+- Opportunity to practice full match process
+- Read Competition Manual Section 13.5 for details
+- Review Field Operations Guide Practice Matches section
+
+**Practice Match Details**:
+
+- Not all events offer Practice Matches
+- Can be scheduled or open with different processes
+- May conflict with inspection and judging interviews
+- Some events provide "filler line" for open spots
+- Be patient with volunteers as this is a new process
+
+**Action Items**:
+
+- Update robot control apps to Version 11.0
+- Review unified Inspection Checklist
+- Study Competition Manual Section 13.5
+- Read Field Operations Guide Practice Matches section
+- Prepare for potential Practice Matches at events
+`,P=`## Newsletter #6 Summary
+
+**Immediate Deadline**:
+
+- Dean's List Award nominations due December 15th
+
+**Current Season Championship**:
+
+- March 6–7, 2026 at AdventHealth Fieldhouse, Winter Haven
+- Final year of agreement with current venue
+
+**Future Championship Planning**:
+
+- Seeking new venues for March 2027 and beyond
+- Current venue becoming tight on seating and pit space
+- Program growth: 256 teams currently
+- Goal to expand Florida Championship to more teams
+
+**Venue Requirements**:
+
+- Dual-division event with 4 fields
+- Minimum 56 teams capacity
+- Oversized gymnasium usually insufficient
+- Cost will be major decision factor
+
+**Help Needed**:
+
+- Venue recommendations with contacts
+- Sponsorship opportunities for Florida Championship
+- Past locations came from community connections
+
+**Action Items**:
+
+- Submit Dean's List nominations by December 15th
+- Contact AJ Foster with venue suggestions and contacts
+- Reach out about potential championship sponsorships
+`,O=`## Newsletter #7 Summary
+
+**Florida Championship Details**:
+
+- March 6–7, 2026 at AdventHealth Fieldhouse, Winter Haven
+- 56 total teams attending
+- 54 teams advance from League Tournaments (new advancement model)
+- 1 team from Volunteer T-Shirt Contest
+- 1 team from lottery system
+
+**Advancement Opportunities**:
+
+- 9 teams advance to FIRST Championship in Houston, TX
+- 13 additional teams advance to Premier Events worldwide
+- Exact advancement numbers per league announced in January
+
+**Volunteer T-Shirt Contest**:
+
+- Winning team receives automatic Florida Championship invitation
+- Design worn by all Florida Championship volunteers
+- Submission deadline: January 3, 2026 at 11:59pm ET
+- Digital designs only (JPEG, PNG, or SVG)
+- Single foreground color design
+- Must include "Florida Championship 2026" text
+- Must incorporate official DECODE™ presented by RTX logo
+- Submit via Google Form
+
+**Team Lottery**:
+
+- For teams not recently attended Florida Championship
+- Weighted by seasons since last appearance
+- Submission deadline: January 3, 2026 at 11:59pm ET
+- Fill out Google Form to participate
+
+**Action Items**:
+
+- Submit T-shirt designs by January 3rd deadline
+- Enter lottery if eligible by January 3rd deadline
+- Prepare for League Tournaments and Championship advancement
+`,W=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],_=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(_,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function G(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:R,summary:O}),e.jsx(t,{content:C,summary:P}),e.jsx(t,{content:S,summary:M}),e.jsx(t,{content:F,summary:E}),e.jsx(t,{content:T,summary:N}),e.jsx(t,{content:v,summary:D}),e.jsx(t,{content:y,summary:k}),e.jsx(t,{content:b,summary:I}),e.jsx(t,{content:w,summary:A}),e.jsx(t,{content:f,summary:L}),e.jsx(t,{content:g}),e.jsx(t,{content:p}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{G as default,W as meta};
