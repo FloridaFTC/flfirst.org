@@ -1,3 +1,5 @@
+# 2025–2026 Newsletter #2: Kickoff Details
+
 Hello teams, volunteers, and friends,
 
 This newsletter contains additional information about the in-person and virtual kickoff experiences on Saturday, September 6th for the 2025–2026 DECODE™ presented by RTX season.
@@ -40,7 +42,12 @@ Florida has a [history](https://www.youtube.com/watch?v=iBXi66IgZNc) of [creativ
 
 See you soon!
 
-**AJ Foster**<br />
-Program Deliver Partner · Florida<br />
-Global Key · Technology<br />
-_FIRST_ Tech Challenge
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>

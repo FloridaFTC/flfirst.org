@@ -215,13 +215,28 @@ export function Layout({ children }: { children: React.ReactNode }) {
               <div>
                 <a
                   className="block w-full text-center"
-                  href="https://www.rtx.com/"
+                  href="https://docs.flfirst.org/sponsors/visit-central-florida/"
                   target="_blank"
                 >
                   <img
                     className="h-8 w-auto inline-block"
                     src="VisitCF_4cHorLogo-png.png"
                     alt="Visit Central Florida"
+                  />
+                </a>
+              </div>
+            </div>
+            <div className="flex-1 flex items-center justify-center gap-4">
+              <div>
+                <a
+                  className="block w-full text-center"
+                  href="https://docs.flfirst.org/sponsors/infinity-insurance-agency/"
+                  target="_blank"
+                >
+                  <img
+                    className="h-8 w-auto inline-block"
+                    src="IIA-logo.png"
+                    alt="Infinity Insurance Agency"
                   />
                 </a>
               </div>

@@ -4,7 +4,7 @@ const ContentPageHeading = ({
   text,
   image,
 }: {
-  text: string;
+  text: string | React.ReactNode;
   image: string;
 }) => (
   <div className="relative z-0 -mt-4 -mx-4">
