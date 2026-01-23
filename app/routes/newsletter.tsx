@@ -20,6 +20,7 @@ import Newsletter2025Oct10 from "./static/newsletters/2025-10-10_newsletter-4.md
 import Newsletter2025Oct26 from "./static/newsletters/2025-10-26_newsletter-5.md?raw";
 import Newsletter2025Dec01 from "./static/newsletters/2025-12-01_newsletter-6.md?raw";
 import Newsletter2025Dec07 from "./static/newsletters/2025-12-07_newsletter-7.md?raw";
+import Newsletter2026Jan21 from "./static/newsletters/2026-01-21_newsletter-8.md?raw";
 
 import Newsletter2025Jan19Summary from "./static/newsletters/summaries/2025-01-19_newsletter-13.md?raw";
 import Newsletter2025Jan6Summary from "./static/newsletters/summaries/2025-01-06_newsletter-12.md?raw";
@@ -31,6 +32,7 @@ import Newsletter2025Oct10Summary from "./static/newsletters/summaries/2025-10-1
 import Newsletter2025Oct26Summary from "./static/newsletters/summaries/2025-10-26_newsletter-5.md?raw";
 import Newsletter2025Dec01Summary from "./static/newsletters/summaries/2025-12-01_newsletter-6.md?raw";
 import Newsletter2025Dec07Summary from "./static/newsletters/summaries/2025-12-07_newsletter-7.md?raw";
+import Newsletter2026Jan21Summary from "./static/newsletters/summaries/2026-01-21_newsletter-8.md?raw";
 import { useState } from "react";
 
 export const meta: MetaFunction = () => {
@@ -89,6 +91,10 @@ const MarkdownPost = ({
 export default function Newsletter() {
   return (
     <div className="flex flex-col mx-auto gap-4">
+      <MarkdownPost
+        content={Newsletter2026Jan21}
+        summary={Newsletter2026Jan21Summary}
+      />
       <MarkdownPost
         content={Newsletter2025Dec07}
         summary={Newsletter2025Dec07Summary}

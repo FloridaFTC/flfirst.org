@@ -53,13 +53,13 @@ The Florida FTC season theme this year is Robot Design. Therefore, this newslett
 
 The following are the topics covered in this Florida FTC newsletter:
 
-1.                                      New Florida FIRST Tech Challenge Website (www.flfirst.org)
+1.                                       New Florida FIRST Tech Challenge Website (www.flfirst.org)
 
-2.                                      AJ’s Tech Corner
+2.                                       AJ’s Tech Corner
 
-3.                                      SDK 10.1 Released: Use REV Hardware Client to Update
+3.                                       SDK 10.1 Released: Use REV Hardware Client to Update
 
-4.                                      Robot Design Ideas
+4.                                       Robot Design Ideas
 
 ## Newsletter Details
 
@@ -631,7 +631,7 @@ Get started at https://training.firstinspires.org/, and have fun.
   Global Key · Technology<br />
   <i>FIRST</i> Tech Challenge
 </p>
-`,S=`# 2025–2026 Newsletter #5: Preparing for League Meets
+`,C=`# 2025–2026 Newsletter #5: Preparing for League Meets
 
 Hello Florida _FIRST_ Tech Challenge,
 
@@ -669,7 +669,7 @@ See you at an event soon!
   Global Key · Technology<br />
   <i>FIRST</i> Tech Challenge
 </p>
-`,C=`# 2025–2026 Newsletter #6: Future Florida Championships
+`,S=`# 2025–2026 Newsletter #6: Future Florida Championships
 
 Hello Florida _FIRST_ Tech Challenge,
 
@@ -749,7 +749,57 @@ I hope you have a relaxing new year and return excited to finish DECODE™ prese
   Global Key · Technology<br />
   <i>FIRST</i> Tech Challenge
 </p>
-`,I=`## Newsletter #13 Summary
+`,I=`Hello Florida _FIRST_ Tech Challenge,
+
+_The short version_: This email contains the number of teams advancing from each of our eight League Tournament events to the Florida Championship. If you or someone you know would like to volunteer at the event, please [join us](https://my.firstinspires.org/ExpressVolunteer/landing-page/73e633a7-8ba1-11f0-8142-00505699b848)!
+
+\\~\\~\\~
+
+**Advancement Counts**
+
+I’m pleased to share that the Florida Championship will grow to **60 teams** this year. All of your outreach efforts have led to incredible growth over the past few years, and we’re doing our best to host as many teams as possible at this event.
+
+Here is the breakdown of advancement from each League Tournament event:
+
+- AeroCoast: **6**
+- FIRST United Network: **6**
+- Gulf Coast: **10**
+- Northeast Florida: **8**
+- Orlando Robotics: **8**
+- ROBOT: **6**
+- South Florida: **9**
+- Space Coast: **5**
+
+These teams will join the winner of our Volunteer T-shirt Contest and the Florida Championship lottery described in the previous newsletter.
+
+As a reminder, _FIRST_ announced a [new advancement model](https://community.firstinspires.org/advancement-first-championship-update) this season. You can read about it in [Section 4 of the Competition Manual](https://ftc-resources.firstinspires.org/ftc/game/manual-04).
+
+**Call for Volunteers**
+
+We would love for you to join us as a volunteer at the Florida Championship. If you are a coach, mentor, or parent on a team...
+
+- Consider joining us as a **Judge** to see presentations from our top teams and learn what might be effective for your team in the future.
+- Consider joining us as an **Inspector** to get up close with the robots and hear how they work.
+- Or join us in any of the other open roles to help us make this celebration come together.
+
+Use [this signup link](https://my.firstinspires.org/ExpressVolunteer/landing-page/73e633a7-8ba1-11f0-8142-00505699b848) to get started. We can’t run this event without your help, and you’ll join a lovely community of fellow volunteers.
+
+We also couldn’t run this event without the help of sponsors. I’d like to recognize Infinity Insurance Agency for sponsoring the 2026 Florida Championship and the Florida FIRST Tech Challenge program in general. Infinity Insurance Agency is proud to serve the community by offering affordable and customizable auto insurance solutions for families and small business owners. You can read more about them [here](https://www.infinityauto.com/?utm_source=client_website&utm_medium=newsletter&utm_campaign=firsttechflorida).
+
+\\~\\~\\~
+
+See you soon,
+
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>
+`,A=`## Newsletter #13 Summary
 
 **League Tournaments Schedule**:
 
@@ -784,7 +834,7 @@ I hope you have a relaxing new year and return excited to finish DECODE™ prese
   - Space Coast: 6 teams
 
 Good luck to all teams in the League Tournaments!
-`,A=`## Newsletter #12 Summary
+`,L=`## Newsletter #12 Summary
 
 **Florida Championship**:
 
@@ -836,7 +886,7 @@ Activities include:
 - Hybrid judging interviews conducted online.
 - Engineering Portfolio replaces multiple documents for awards.
 - Playoff structure uses double elimination.
-`,L=`## Newsletter #11 Summary
+`,k=`## Newsletter #11 Summary
 
 **Dean’s List Nominations**:
 
@@ -915,7 +965,7 @@ Activities include:
 - Check [flfirst.org/events](https://flfirst.org/events) for updated event information
 - Look for communication from local league for registration instructions
 - Submit video links by August 29th deadline
-`,k=`## 2025–2026 Newsletter #1 Summary
+`,N=`## 2025–2026 Newsletter #1 Summary
 
 **Leadership Change**:
 
@@ -947,7 +997,7 @@ Activities include:
 - FIRST Tech Challenge Hardship Grant now available
 - Review criteria at [firstinspires.org/robotics/team-grants](https://www.firstinspires.org/robotics/team-grants)
 - Contact AJ Foster to apply
-`,N=`## Newsletter #3 Summary
+`,E=`## Newsletter #3 Summary
 
 **Important Dates**:
 
@@ -978,7 +1028,7 @@ Activities include:
 - Submit Safety Animation Award entries by November 20
 - Submit Dean's List Award nominations by December 15
 - Submit Digital Animation Award entries by January 12
-`,E=`## Newsletter #4 Summary
+`,M=`## Newsletter #4 Summary
 
 **Training Platform**:
 
@@ -1006,7 +1056,7 @@ Activities include:
 - Complete Welcome to FIRST training
 - Consider Robot Inspector training for upcoming League Meets
 - Plan Judge training for later season preparation
-`,M=`## Newsletter #5 Summary
+`,P=`## Newsletter #5 Summary
 
 **Software Updates**:
 
@@ -1043,7 +1093,7 @@ Activities include:
 - Study Competition Manual Section 13.5
 - Read Field Operations Guide Practice Matches section
 - Prepare for potential Practice Matches at events
-`,P=`## Newsletter #6 Summary
+`,O=`## Newsletter #6 Summary
 
 **Immediate Deadline**:
 
@@ -1079,7 +1129,7 @@ Activities include:
 - Submit Dean's List nominations by December 15th
 - Contact AJ Foster with venue suggestions and contacts
 - Reach out about potential championship sponsorships
-`,O=`## Newsletter #7 Summary
+`,_=`## Newsletter #7 Summary
 
 **Florida Championship Details**:
 
@@ -1118,4 +1168,18 @@ Activities include:
 - Submit T-shirt designs by January 3rd deadline
 - Enter lottery if eligible by January 3rd deadline
 - Prepare for League Tournaments and Championship advancement
-`,W=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],_=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(_,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function G(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:R,summary:O}),e.jsx(t,{content:C,summary:P}),e.jsx(t,{content:S,summary:M}),e.jsx(t,{content:F,summary:E}),e.jsx(t,{content:T,summary:N}),e.jsx(t,{content:v,summary:D}),e.jsx(t,{content:y,summary:k}),e.jsx(t,{content:b,summary:I}),e.jsx(t,{content:w,summary:A}),e.jsx(t,{content:f,summary:L}),e.jsx(t,{content:g}),e.jsx(t,{content:p}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{G as default,W as meta};
+`,x=`## Newsletter #8 Summary
+
+**Florida Championship Details**:
+
+- March 6–7, 2026 at AdventHealth Fieldhouse, Winter Haven
+- 60 total teams attending
+- 58 teams advance from League Tournaments (new advancement model)
+- 1 team from Volunteer T-Shirt Contest
+- 1 team from lottery system
+- Individual league counts are now available
+
+**Action Items**:
+
+- Sign up to volunteer at the Florida Championship
+`,G=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],H=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),t=({content:o,summary:n})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(H,{children:e.jsxs("div",{className:"relative",children:[n&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:n??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:n&&e.jsx(i,{markdown:n})})]})};function J(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(t,{content:I,summary:x}),e.jsx(t,{content:R,summary:_}),e.jsx(t,{content:S,summary:O}),e.jsx(t,{content:C,summary:P}),e.jsx(t,{content:F,summary:M}),e.jsx(t,{content:T,summary:E}),e.jsx(t,{content:v,summary:D}),e.jsx(t,{content:y,summary:N}),e.jsx(t,{content:b,summary:A}),e.jsx(t,{content:w,summary:L}),e.jsx(t,{content:f,summary:k}),e.jsx(t,{content:g}),e.jsx(t,{content:p}),e.jsx(t,{content:m}),e.jsx(t,{content:u}),e.jsx(t,{content:c}),e.jsx(t,{content:d}),e.jsx(t,{content:h}),e.jsx(t,{content:l})]})}export{J as default,G as meta};
