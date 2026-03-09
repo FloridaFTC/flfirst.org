@@ -53,13 +53,13 @@ The Florida FTC season theme this year is Robot Design. Therefore, this newslett
 
 The following are the topics covered in this Florida FTC newsletter:
 
-1.                                        New Florida FIRST Tech Challenge Website (www.flfirst.org)
+1.                                         New Florida FIRST Tech Challenge Website (www.flfirst.org)
 
-2.                                        AJ’s Tech Corner
+2.                                         AJ’s Tech Corner
 
-3.                                        SDK 10.1 Released: Use REV Hardware Client to Update
+3.                                         SDK 10.1 Released: Use REV Hardware Client to Update
 
-4.                                        Robot Design Ideas
+4.                                         Robot Design Ideas
 
 ## Newsletter Details
 
@@ -749,7 +749,9 @@ I hope you have a relaxing new year and return excited to finish DECODE™ prese
   Global Key · Technology<br />
   <i>FIRST</i> Tech Challenge
 </p>
-`,I=`Hello Florida _FIRST_ Tech Challenge,
+`,I=`# 2025–2026 Newsletter #8: Florida Championship (Advancement Counts & Call for Volunteers)
+
+Hello Florida _FIRST_ Tech Challenge,
 
 _The short version_: This email contains the number of teams advancing from each of our eight League Tournament events to the Florida Championship. If you or someone you know would like to volunteer at the event, please [join us](https://my.firstinspires.org/ExpressVolunteer/landing-page/73e633a7-8ba1-11f0-8142-00505699b848)!
 
@@ -799,7 +801,9 @@ See you soon,
   Global Key · Technology<br />
   <i>FIRST</i> Tech Challenge
 </p>
-`,A=`Hello Florida _FIRST_ Tech Challenge,
+`,A=`# 2025–2026 Newsletter #9: Florida Championship (Teams & Times)
+
+Hello Florida _FIRST_ Tech Challenge,
 
 Congratulations on completing the regular season of DECODE™ presented by RTX. This email contains the list of teams competing at the 2026 Florida Championship and information about how you can join. If you’re available, please consider volunteering at the event.
 
@@ -899,7 +903,33 @@ See you soon,
   Global Key · Technology<br />
   <i>FIRST</i> Tech Challenge
 </p>
-`,L=`## Newsletter #13 Summary
+`,L=`# 2025–2026 Newsletter #10: Season Wrap-Up
+
+Hello Florida _FIRST_ Tech Challenge,
+
+This weekend, 60 teams participated in the Florida Championship event in Winter Haven, FL. I loved seeing folks from around the state come together to celebrate everyone’s hard work.
+
+You can see [event results online](https://ftc-events.firstinspires.org/2025/USFLCMP), including our [award winners](https://ftc-events.firstinspires.org/2025/USFLCMP/awards) and the [list of teams advancing](https://ftc-events.firstinspires.org/2025/USFLCMP/advancementpoints) to the FIRST Championship (9) and Premier Events (13). I’d like to give special congratulations to our Compass Award winner, **Daniel C.** from Pahokee Middle-Senior High School, and our four _FIRST_ Leadership Award finalists:
+
+- Anna, from 20344 Cattlebots
+- Arnav, from 16290 Z.I.P Ties
+- Murphy, from 16249 Excaliper
+- Natalie, from 23979 Ultronic
+
+This marks the end of the DECODE™ presented by RTX season here in Florida. Our advancing teams will now represent Florida at the _FIRST_ Championship in Houston, TX and at Premier Events around the world. We wish them the best of luck!
+
+Thank you for being a part of the Florida _FIRST_ Tech Challenge community. I hope you have a wonderful break, and we’ll see you again next season.
+
+<p style="font-weight: bold; margin-bottom: 0">
+  AJ Foster
+</p>
+
+<p style="font-size: 0.75em">
+  Program Deliver Partner · Florida<br />
+  Global Key · Technology<br />
+  <i>FIRST</i> Tech Challenge
+</p>
+`,k=`## Newsletter #13 Summary
 
 **League Tournaments Schedule**:
 
@@ -934,7 +964,7 @@ See you soon,
   - Space Coast: 6 teams
 
 Good luck to all teams in the League Tournaments!
-`,k=`## Newsletter #12 Summary
+`,D=`## Newsletter #12 Summary
 
 **Florida Championship**:
 
@@ -986,7 +1016,7 @@ Activities include:
 - Hybrid judging interviews conducted online.
 - Engineering Portfolio replaces multiple documents for awards.
 - Playoff structure uses double elimination.
-`,D=`## Newsletter #11 Summary
+`,N=`## Newsletter #11 Summary
 
 **Dean’s List Nominations**:
 
@@ -1028,7 +1058,7 @@ Activities include:
 
 - Review the six published Team Updates before attending events.
 - Updates available on the [FIRST Game and Season Info page](https://www.firstinspires.org/resource-library/ftc/game-and-season-info).
-`,N=`## 2025–2026 Newsletter #2 Summary
+`,E=`## 2025–2026 Newsletter #2 Summary
 
 **Kickoff Date**:
 
@@ -1065,7 +1095,7 @@ Activities include:
 - Check [flfirst.org/events](https://flfirst.org/events) for updated event information
 - Look for communication from local league for registration instructions
 - Submit video links by August 29th deadline
-`,E=`## 2025–2026 Newsletter #1 Summary
+`,M=`## 2025–2026 Newsletter #1 Summary
 
 **Leadership Change**:
 
@@ -1097,7 +1127,7 @@ Activities include:
 - FIRST Tech Challenge Hardship Grant now available
 - Review criteria at [firstinspires.org/robotics/team-grants](https://www.firstinspires.org/robotics/team-grants)
 - Contact AJ Foster to apply
-`,M=`## Newsletter #3 Summary
+`,P=`## Newsletter #3 Summary
 
 **Important Dates**:
 
@@ -1156,7 +1186,7 @@ Activities include:
 - Complete Welcome to FIRST training
 - Consider Robot Inspector training for upcoming League Meets
 - Plan Judge training for later season preparation
-`,P=`## Newsletter #5 Summary
+`,_=`## Newsletter #5 Summary
 
 **Software Updates**:
 
@@ -1193,7 +1223,7 @@ Activities include:
 - Study Competition Manual Section 13.5
 - Read Field Operations Guide Practice Matches section
 - Prepare for potential Practice Matches at events
-`,_=`## Newsletter #6 Summary
+`,x=`## Newsletter #6 Summary
 
 **Immediate Deadline**:
 
@@ -1229,7 +1259,7 @@ Activities include:
 - Submit Dean's List nominations by December 15th
 - Contact AJ Foster with venue suggestions and contacts
 - Reach out about potential championship sponsorships
-`,x=`## Newsletter #7 Summary
+`,H=`## Newsletter #7 Summary
 
 **Florida Championship Details**:
 
@@ -1268,7 +1298,7 @@ Activities include:
 - Submit T-shirt designs by January 3rd deadline
 - Enter lottery if eligible by January 3rd deadline
 - Prepare for League Tournaments and Championship advancement
-`,H=`## Newsletter #8 Summary
+`,W=`## Newsletter #8 Summary
 
 **Florida Championship Details**:
 
@@ -1282,9 +1312,12 @@ Activities include:
 **Action Items**:
 
 - Sign up to volunteer at the Florida Championship
-`,G=`## Newsletter #8 Summary
+`,G=`## Newsletter #9 Summary
 
 - List of teams attending the Florida Championship announced
 - Join in person or watch the live stream on Friday and Saturday
 - Sign up to volunteer at the Florida Championship, especially as a Judge
-`,j=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],W=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),n=({content:o,summary:t})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(W,{children:e.jsxs("div",{className:"relative",children:[t&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:t??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:t&&e.jsx(i,{markdown:t})})]})};function B(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(n,{content:A,summary:G}),e.jsx(n,{content:I,summary:H}),e.jsx(n,{content:R,summary:x}),e.jsx(n,{content:S,summary:_}),e.jsx(n,{content:C,summary:P}),e.jsx(n,{content:F,summary:O}),e.jsx(n,{content:T,summary:M}),e.jsx(n,{content:v,summary:N}),e.jsx(n,{content:y,summary:E}),e.jsx(n,{content:b,summary:L}),e.jsx(n,{content:w,summary:k}),e.jsx(n,{content:f,summary:D}),e.jsx(n,{content:g}),e.jsx(n,{content:p}),e.jsx(n,{content:m}),e.jsx(n,{content:u}),e.jsx(n,{content:c}),e.jsx(n,{content:d}),e.jsx(n,{content:h}),e.jsx(n,{content:l})]})}export{B as default,j as meta};
+`,J=`## Newsletter #10 Summary
+
+Thank you for a wonderful DECODE™ presented by RTX season!
+`,U=()=>[{title:"Newsletter | Florida FIRST Tech Challenge"},{name:"description",content:"Welcome to Remix!"}],V=({children:o})=>e.jsx("div",{className:"bg-white shadow-md p-4 max-w-prose",children:e.jsx("div",{className:"flex flex-col gap-4",children:o})}),n=({content:o,summary:t})=>{const[a,s]=r.useState(!1);return e.jsxs("div",{className:"flex gap-4",children:[e.jsx(V,{children:e.jsxs("div",{className:"relative",children:[t&&e.jsx("button",{onClick:()=>s(!a),className:"flex md:hidden min-w-36 justify-center bg-gray-100/90 px-8 py-4 rounded-sm absolute top-1 right-1 text-md text-gray-500",children:a?"Original":"Summary"}),e.jsx("div",{className:`italic text-gray-600 ${a?"block":"hidden"} sm:hidden`,children:e.jsx(i,{markdown:t??""})}),e.jsx("div",{className:`${a?"hidden":"block"} sm:block`,children:e.jsx(i,{markdown:o})})]})}),e.jsx("div",{className:"hidden md:flex flex-col gap-4 italic text-gray-500 text-sm w-96",children:t&&e.jsx(i,{markdown:t})})]})};function q(){return e.jsxs("div",{className:"flex flex-col mx-auto gap-4",children:[e.jsx(n,{content:L,summary:J}),e.jsx(n,{content:A,summary:G}),e.jsx(n,{content:I,summary:W}),e.jsx(n,{content:R,summary:H}),e.jsx(n,{content:S,summary:x}),e.jsx(n,{content:C,summary:_}),e.jsx(n,{content:F,summary:O}),e.jsx(n,{content:T,summary:P}),e.jsx(n,{content:v,summary:E}),e.jsx(n,{content:y,summary:M}),e.jsx(n,{content:b,summary:k}),e.jsx(n,{content:w,summary:D}),e.jsx(n,{content:f,summary:N}),e.jsx(n,{content:g}),e.jsx(n,{content:p}),e.jsx(n,{content:m}),e.jsx(n,{content:u}),e.jsx(n,{content:c}),e.jsx(n,{content:d}),e.jsx(n,{content:h}),e.jsx(n,{content:l})]})}export{q as default,U as meta};

@@ -1,3 +1,5 @@
+# 2025–2026 Newsletter #8: Florida Championship (Advancement Counts & Call for Volunteers)
+
 Hello Florida _FIRST_ Tech Challenge,
 
 _The short version_: This email contains the number of teams advancing from each of our eight League Tournament events to the Florida Championship. If you or someone you know would like to volunteer at the event, please [join us](https://my.firstinspires.org/ExpressVolunteer/landing-page/73e633a7-8ba1-11f0-8142-00505699b848)!

@@ -1,3 +1,5 @@
+# 2025–2026 Newsletter #9: Florida Championship (Teams & Times)
+
 Hello Florida _FIRST_ Tech Challenge,
 
 Congratulations on completing the regular season of DECODE™ presented by RTX. This email contains the list of teams competing at the 2026 Florida Championship and information about how you can join. If you’re available, please consider volunteering at the event.

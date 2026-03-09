@@ -1,4 +1,4 @@
-## Newsletter #8 Summary
+## Newsletter #9 Summary
 
 - List of teams attending the Florida Championship announced
 - Join in person or watch the live stream on Friday and Saturday
