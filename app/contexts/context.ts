@@ -41,7 +41,7 @@ export class Context {
       },
       regionManager: {
         host: "https://ftcregion.com",
-        season: "2025",
+        season: "2026",
         region: "USFL",
       },
     };
